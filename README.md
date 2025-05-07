@@ -1,1 +1,1 @@
-# reestar
+The Restaurant Management System is a comprehensive software solution designed to streamline and automate the daily operations of a restaurant. This project focuses on creating an efficient, user-friendly platform that helps manage reservations, orders, menus, billing, and staff roles. The goal is to enhance customer satisfaction, reduce manual errors, and improve overall service efficiency.# reestar
